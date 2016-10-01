@@ -5,36 +5,36 @@
 ```go
 /******************************************************************************\
 
-                   i
-                 .dki .
-                 d$k$j.
-                 ikkkki                     ij
-                 .d$d. .                   .kk.
-                  t$j  ikt.                t$$j
-                  t$k  i$$$$ki            .k$$d
-                  i$ki i$$$$k$$j.         j$k$k.
-                  .k$t  j$$k$$$$ki        d$jk$i
-                  .d$d    .tdkk$$$j      .kk.d$j
-                   t$k.        .k$ki     t$t.d$j
-                   j$$j          tkd.   ik$. t$t
-   jt              ik$t           j$j  .d$d  t$d       .t$$$$$$$kti
-  jk.              .k$d            dd. d$$i  j$k.    .t$$$$$$$$$$$$$$dj.
- iki               .k$d            id.d$$t   j$$i   .$$dj..       ..jtk$$$ktji..
-.dd                 d$j             ik$$d.   ik$$i.jki                ik$$$$$$t.
-ikt                 tk.           ik$$$k.    .t$$$$kj.          ..ijdk$$kkkk$t.
-tk$j.             id$t        ..t$$kk$t       .t$$$$$$      $$$$$kdji.
-ikk$$dji.....itd$$$$t       id$$$$$$t           id$$$$$$$$$$ktj.
-  ik$k$$$$$$$$$$ki      .tk$$$$$dj.              .jdkkkkdti.
-    itk$$$$$$kti     .itk$$kdti..
+                   a
+                 .lha .
+                 l$h$l.
+                 ahhhha                     al
+                 .l$l. .                   .hh.
+                  a$l  aha.                a$$l
+                  a$h  a$$$$ha            .h$$l
+                  a$ha a$$$$h$$l.         l$h$h.
+                  .h$a  l$$h$$$$ha        l$lh$a
+                  .l$l    .alhh$$$l      .hh.l$l
+                   a$h.        .h$ha     a$a.l$l
+                   l$$l          ahl.   ah$. a$a
+   la              ah$a           l$l  .l$l  a$l       .a$$$$$$$haa
+  lh.              .h$l            ll. l$$a  l$h.    .a$$$$$$$$$$$$$$ll.
+ aha               .h$l            al.l$$a   l$$a   .$$ll..       ..lah$$$hala..
+.ll                 l$l             ah$$l.   ah$$a.lha                ah$$$$$$a.
+aha                 ah.           ah$$$h.    .a$$$$hl.          ..allh$$hhhh$a.
+ah$l.             al$a        ..a$$hh$a       .a$$$$$$      $$$$$hlla.
+ahh$$lla.....aal$$$$a       al$$$$$$a           al$$$$$$$$$$hal.
+  ah$h$$$$$$$$$$ha      .ah$$$$$ll.              .llhhhhlaa.
+    aah$$$$$$haa     .aah$$hlaa..
 
-           ikdkdddddddddddddddddddddddddddddddddddddddddtttttttttd.
-           .d .j.    .t.    .tj     .ti         .dt     id      .d.
-           id ik.    ik.   .ddkj    .ki        .kdkt    jk.     .d.
-           .d i$tjjjjtki   tk i$i   .kj        tk .$j.  jk.     .d.
-           .d iki....jki  i$kddkk.  .kj       j$kkdk$i  jk.     .d.
-           .d .ki    i$i .$j    dd. .kj.     i$i    t$. jk.     .d.
-           .t .d.    .ti.jt.    .tj .ttttddj.jj     .jj jtjtjtj..d.
-           .dttttttddddddddddddddddddddddddddddddddddddddddddddddd.
+           ahlhlllllllllllllllllllllllllllllllllllllllllllllllllll.
+           .l .l.    .a.    .al     .aa         .la     al      .l.
+           .l ah.    ah.   .llhl    .ha        .hlha    lh.     .l.
+           .l a$allllaha   ah a$a   .hl        ah .$l.  lh.     .l.
+           .l aha....lha  a$hllhh.  .hl       l$hhlh$a  lh.     .l.
+           .l .ha    a$a .$l    ll. .hl.     a$a    a$. lh.     .l.
+           .l .l.    .aa.la.    .al .aaaalll.ll     .ll lalalal..l.
+           .llllllllllllllllllllllllllllllllllllllllllllllllllllll.
 
 \******************************************************************************/
 ```
